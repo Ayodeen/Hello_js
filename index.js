@@ -1,0 +1,5 @@
+console.log("Hello world")
+console.log("Shamsudeen Eniola Saka A.K.A Ayodeen")
+console.log("i am a backend developer")
+console.log("i am 40 years old and i am from Nigeria")
+console.log("it is my pleasure to be here and i am looking forwad to learn more from you all")
